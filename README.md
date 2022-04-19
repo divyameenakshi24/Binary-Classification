@@ -46,7 +46,8 @@ pyplot.show()
 
 
 ## Output:
-![binary classification plot](XXX.png)
+![nn2](https://user-images.githubusercontent.com/75235402/164061132-d2271378-f402-4e71-a848-599f4844772e.jpg)
+
 
 
 ## Result:
